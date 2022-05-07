@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">764208944701-u4l155qqr57j1va5ccfkbr2djra2r0jl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">764208944701</string>
+    <string name="google_api_key" translatable="false">AIzaSyALw1HYVVx_CDhignBMwCQn-qDjCNJ7EhM</string>
+    <string name="google_app_id" translatable="false">1:764208944701:android:35cc4360b831ab62f07c54</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALw1HYVVx_CDhignBMwCQn-qDjCNJ7EhM</string>
+    <string name="google_storage_bucket" translatable="false">taktakare.appspot.com</string>
+    <string name="project_id" translatable="false">taktakare</string>
+</resources>

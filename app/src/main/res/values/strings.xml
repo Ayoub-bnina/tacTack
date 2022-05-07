@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TakTak</string>
+    <string name="prenom">Prenom :</string>
+    <string name="nom">Nom :</string>
+    <string name="votre_profil">Votre profil:</string>
+    <string name="age">Age :</string>
+    <string name="adresse">Adresse:</string>
+
+    <string name="mot_de_passe">Mot de passe:</string>
+    <string name="modifier_vos_informations">Modifier vos informations</string>
+    <string name="nomdapresbase">NomDapresbase</string>
+</resources>
